@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+
+## NAME: AKASH PRAKASH
+## REG NO: 212224240008
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
